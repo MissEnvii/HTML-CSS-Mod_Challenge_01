@@ -3,7 +3,7 @@
 ## Inroduction:  
 
 The task was to refactor the existing webpage for 'Horiseon Social Solution Services, Inc.' to make it accessible by accomplishing the following:
-* making sure all link are functional, CSS selectors anf properties are organized to follow the secmantic structure. CSS foile in properly commented.
+* Making sure all link are functional, CSS selectors and properties are organized to follow the secmantic structure. CSS file properly commented.
 * Application deployed at live URL, loads with no errors, GITHUB url submitted and repo contains application code.
 * Application look like 90% of screenshot provided.
 * Repo has unique name, follows best practice for file structure and naming conventions, contains Quality README file with description, screenshot, and link to deployed application.
