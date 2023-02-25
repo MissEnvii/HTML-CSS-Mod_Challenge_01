@@ -41,4 +41,3 @@ You are required to submit BOTH of the following for review:
 * The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
 
 ------
-# HTML-CSS-Mod_Challenge_01
